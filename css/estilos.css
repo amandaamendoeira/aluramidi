@@ -65,3 +65,12 @@ h1 {
 .tecla:active:focus {
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset, 1px 1px 10px var(--luz);
 }
+
+.rodape {
+ padding: 24px;
+ border-radius: 5%;
+ color: var(--branca);
+ text-align: justify;
+ font-size: 1rem;
+ font-weight: 2rem;
+}
